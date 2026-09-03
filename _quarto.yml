@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "L1 - TD méthodologie expérimentale"
+  
+format:
+  revealjs:
+  multiplex: true
+
+
+
