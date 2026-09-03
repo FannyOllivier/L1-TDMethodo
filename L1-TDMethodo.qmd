@@ -1,5 +1,5 @@
 ---
-title: "L1 TD Méthodologie expérimentale"
+title: "L1 - TD Méthodologie expérimentale"
 subtitle: ""
 format: 
   revealjs: 
@@ -7,28 +7,68 @@ format:
     multiplex: true
     slide-number: 'c'  
     number-sections: false
-    incremental: true
+    incremental: false
     theme: ["custom.scss"]
     
     
 editor: visual
 ---
 
-## Quarto
+# Introduction 
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+Présentation et thèmes de recherche
 
-## Bullets
+Inscription sur l'espace de cours du groupe de TD 
 
-When you click the **Render** button a document will be generated that includes:
+Évaluation du TD
 
-- Content authored with markdown
-- Output from executable code
+Organisation concrète du travail en TD
 
-## Code
+Prise de notes, répétition et mémorisation
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
 
-```{r}
-1 + 1
-```
+# Séance 1
+
+Objectifs
+
+Être capable de :
+
+- faire une recherche bibliographique sur des bases de données
+
+- construire une bibliographie aux normes APA 7
+
+## Faire une recherche bibliographique
+
+- Dans des bases de données **scientifiques**
+- À partir des ressources de la BU
+- Définir et utiliser des mots-clefs (booléens)
+- Normes APA 7 
+- Un gestionnaire de bibliographie : Zotero 
+
+# Séance 2 
+
+Objectifs
+
+Être capable de : 
+
+- différencier des ressources bibliographiques en fonction de leur nature (types d’articles)
+- dégager la structure d’un article expérimental et la mémoriser
+
+## Nature et structure des articles scientifiques 
+
+- Classer les articles proposés sur l'espace de cours en fonction de leur nature
+
+  - Décrire et nommer chaque catégorie
+  - Quels sont les points communs et les différences entre les catégories trouvées ? 
+  
+- Rechercher une sélection d'articles sur un thème au choix et les classer en fonction de leur nature
+
+- Dégager la structure des articles expérimentaux
+
+  - La noter et rédiger une description succincte de chaque partie
+
+::: notes
+sélection d'articles avec article expérimental, revue de littérature, commentaire ou réponse à un article, article méthodologique, article théorique, article d'opinion
+:::
+
+
