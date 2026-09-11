@@ -26,6 +26,10 @@ Organisation concrète du travail en TD
 
 Prise de notes, répétition et mémorisation
 
+::: notes
+Demander aux étudiants de lire la trame sur le Moodle
+:::
+
 
 # Séance 1
 
