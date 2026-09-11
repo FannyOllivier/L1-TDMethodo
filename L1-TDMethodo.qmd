@@ -1,6 +1,7 @@
 ---
 title: "L1 - TD Méthodologie expérimentale"
 subtitle: ""
+author: "Fanny Ollivier"
 format: 
   revealjs: 
     chalkboard: true
