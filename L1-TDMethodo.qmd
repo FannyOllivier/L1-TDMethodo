@@ -104,6 +104,11 @@ Krenger, M., Poletti, C., Létang, M., & Thevenot, C. (2027). Counting with or w
 - Trouver la question de recherche et l’hypothèse générale
 - Reformuler la question de recherche et l’hypothèse générale
 
+::: notes
+Montrer qu'il y a 1 idée par paragraphe. Critique possible, un paragraphe qui aurait pu être placé dans la méthodo (avant dernier). Pourquoi ce choix ? 
+:::
+
+
 # Séance 3 
 
 Objectifs
