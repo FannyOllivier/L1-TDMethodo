@@ -76,4 +76,49 @@ Objectifs
 sélection d'articles avec article expérimental, revue de littérature, commentaire ou réponse à un article, article méthodologique, article théorique, article d'opinion
 :::
 
+# Séance 3 
+
+Objectifs
+
+Être capable de : 
+
+- comprendre la structure d’une introduction d’article scientifique
+- dégager et comprendre la question de recherche et l’hypothèse générale
+- écrire une reformulation de la question de recherche et de l’hypothèse générale
+
+::: notes
+Expliquer la consigne du CC1, présente sur Moodle
+
+Article de travail pour cette séance : 
+Krenger, M., Poletti, C., Létang, M., & Thevenot, C. (2027). Counting with or without fingers : The specific role of fingers in improving addition skills in preschoolers. Journal of Experimental Child Psychology, 273, 106651. https://doi.org/10.1016/j.jecp.2026.106651
+
+:::
+
+## Lire une introduction d'article scientifique et en dégager la structure
+
+- Faire le plan inversé d’une introduction à partir d’un article scientifique
+
+Krenger, M., Poletti, C., Létang, M., & Thevenot, C. (2027). Counting with or without fingers : The specific role of fingers in improving addition skills in preschoolers. *Journal of Experimental Child Psychology, 273*, 106651. https://doi.org/10.1016/j.jecp.2026.106651
+
+
+- Trouver la question de recherche et l’hypothèse générale
+- Reformuler la question de recherche et l’hypothèse générale
+
+# Séance 3 
+
+Objectifs
+
+Être capable de : 
+
+- comprendre et retenir la structure de la partie méthodologie
+- dégager et comprendre les hypothèses opérationnelles
+- dégager et comprendre la différence entre les variables dépendantes, indépendantes et contrôlées
+
+## Méthodologie : structure et opérationnalisation 
+
+- Quel est le plan de cette partie ? Trouver des invariants en comparant plusieurs articles expérimentaux 
+- Trouver les hypothèses opérationnelles
+- Les comparer à l’hypothèse générale
+- Trouver les variables (dépendantes, indépendantes, contrôlées)
+
 
