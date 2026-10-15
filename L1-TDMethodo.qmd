@@ -150,7 +150,7 @@ Objectifs
 
     - Mettre en lien la structure de la partie résultats et de la partie discussion avec la structure de l’introduction et méthodologie
     
-- Pour préparer le prochain TD : création d'un compte APA et visite du site
+- Pour préparer le prochain TD : création d'un compte APA et visite du site [laboratoire en ligne APA](https://opl.apa.org/login)
 
 
 
