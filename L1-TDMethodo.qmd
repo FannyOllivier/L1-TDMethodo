@@ -109,7 +109,7 @@ Montrer qu'il y a 1 idée par paragraphe. Critique possible, un paragraphe qui a
 :::
 
 
-# Séance 3 
+# Séance 4 
 
 Objectifs
 
@@ -125,5 +125,32 @@ Objectifs
 - Trouver les hypothèses opérationnelles
 - Les comparer à l’hypothèse générale
 - Trouver les variables (dépendantes, indépendantes, contrôlées)
+
+::: notes
+invariants : participants/procédure/analyse des données et variations entre matériel/mesure/dispositif en fonction du type d'étude
+à quoi sert la méthodo ? Réplication, concrétisation, justification
+:::
+
+# Séance 5 
+
+Objectifs
+
+Être capable de : 
+- dégager la structure des parties résultat et discussion
+- comprendre ce qu’il faut y écrire  
+
+
+## Résultat et discussion : structures et rôles 
+
+- Que met-on dans chacune des parties ? Faire le plan inversé des parties résultat et discussion
+
+    - Trouver les attendus de ces deux parties et les différences entre elles
+    
+- Proposez une schématisation d'un article scientifique, de l'introduction à la conclusion, avec 10 mots maximum 
+
+    - Mettre en lien la structure de la partie résultats et de la partie discussion avec la structure de l’introduction et méthodologie
+    
+- Pour préparer le prochain TD : création d'un compte APA et visite du site
+
 
 
