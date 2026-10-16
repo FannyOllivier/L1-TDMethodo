@@ -136,6 +136,7 @@ invariants : participants/procédure/analyse des données et variations entre ma
 Objectifs
 
 Être capable de : 
+
 - dégager la structure des parties résultat et discussion
 - comprendre ce qu’il faut y écrire  
 
