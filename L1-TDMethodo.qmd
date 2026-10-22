@@ -154,4 +154,27 @@ Objectifs
 - Pour préparer le prochain TD : création d'un compte APA et visite du site [laboratoire en ligne APA](https://opl.apa.org/login)
 
 
+# Séances 6 et 7
 
+Objectifs
+
+- Réinvestir ses connaissances sur la structure d'un article
+- Réaliser une expérimentation simple (Poggendorff)
+- Exploiter les résultats de l'expérimentation
+
+## Retrouver le raisonnement qui mène à la question de recherche et passation de l'expérimentation de Poggendorff (Séance 6)
+
+- Créer un compte APA sur le [laboratoire en ligne APA](https://opl.apa.org/login)
+- Lire les documents déposés sur le Moodle du TD et reconstruire le raisonnement jusqu'à la question de recherche et l'hypothèse générale
+- Lire les explications de l'expérience sur le site de l'APA et comparer avec ce que l'on a trouvé à partir des documents du Moodle
+- Passer l'expérimentation 
+
+
+## Retrouver les variables de l'expérimentation Poggendorff et analyser les données (Séance 7)
+
+- Retrouver les VD, VI et le plan expérimental
+- Écrire les hypothèses opérationnelles
+- Quelles variables aurait-on dû/pu contrôler ? Comment ?
+- Analyser les résultats obtenus à partir du tableau de données fourni dans Moodle
+- Faire une représentation graphique des résultats
+- Conclure sur la validation ou non des hypothèses
