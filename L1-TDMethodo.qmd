@@ -167,7 +167,7 @@ Objectifs
 - Créer un compte APA sur le [laboratoire en ligne APA](https://opl.apa.org/login)
 - Lire les documents déposés sur le Moodle du TD et reconstruire le raisonnement jusqu'à la question de recherche et l'hypothèse générale
 - Lire les explications de l'expérience sur le site de l'APA et comparer avec ce que l'on a trouvé à partir des documents du Moodle
-- Passer l'expérimentation 
+- Passer l'expérimentation - Numéro de la classe : **971747**
 
 
 ## Retrouver les variables de l'expérimentation Poggendorff et analyser les données (Séance 7)
