@@ -166,6 +166,7 @@ Objectifs
 
 - Créer un compte APA sur le [laboratoire en ligne APA](https://opl.apa.org/login)
 - Lire les documents déposés sur le Moodle du TD et reconstruire le raisonnement jusqu'à la question de recherche et l'hypothèse générale
+- [Lien vers le document à lire](https://github.com/FannyOllivier/L1-TDMethodo/blob/main/CoursPoggendorff_part1.pdf)
 - Lire les explications de l'expérience sur le site de l'APA et comparer avec ce que l'on a trouvé à partir des documents du Moodle
 - Passer l'expérimentation - Numéro de la classe : **971747**
 
